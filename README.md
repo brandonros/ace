@@ -38,6 +38,11 @@ Research and experiments related to "agent command center"
 
 * LangGraph
 * CrewAI
+* Agno
+* Mastra
+* Pydantic AI
+* Google ADK
+* Microsoft Agent Framework
 
 ## Observability and evaluation
 
